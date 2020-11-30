@@ -2,10 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gezhongran.github.io</id>
     <title>道格学社</title>
-    <updated>2020-11-30T09:06:16.109Z</updated>
+    <updated>2020-11-30T09:07:15.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gezhongran.github.io"/>
     <link rel="self" href="https://gezhongran.github.io/atom.xml"/>
+    <subtitle>在知识的海洋里，一起小全局学习。</subtitle>
     <logo>https://gezhongran.github.io/images/avatar.png</logo>
     <icon>https://gezhongran.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 道格学社</rights>
